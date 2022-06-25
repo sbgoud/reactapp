@@ -10,8 +10,7 @@ margin: 25px;
 
 }
 .box-element1 {
-  
-  width: 100%;
+
   border-style: solid;
 border-width: 1px;
 border-radius: 2px;
@@ -26,21 +25,49 @@ border-radius: 2px;
 
 }
 .box-element3 {
-  width: 100%;
+
   border-style: solid;
 border-width: 1px;
 border-radius: 2px;
 
 }
 .box-element4 {
-  width: 100%;
+
   border-style: solid;
 border-width: 1px;
 border-radius: 2px;
 
 }
+.box-element5 {
+  text-align: center;
+  color: yellow;
+  margin-top: 100px;
+  margin-bottom: 4px;
+  padding: 5px;
+  background-color: #FFDCD1;
+border-width: 1px;
+border-radius: 2px;
 
+}
+.box-element6 {
+  color: white;
+  background-color: #4188ff;
+border-width: 1px;
+padding: 5px;
+border-radius: 2px;
+text-align: center;
+border-radius: 5px;
+}
+.box-element5 a{
+  color: red;
+  text-decoration: none;
+}
 
+.box-element6 a{
+  color: white;
+  text-decoration: none;
+
+}
 
 
 

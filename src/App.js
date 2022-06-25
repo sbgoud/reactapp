@@ -11,8 +11,10 @@ function App() {
       <div class="box-element2">Controller</div>
       <div class="box-element3">Editor</div>
       <div class="box-element4">Admin</div>
-      <div class="box-element5">Remove</div>
-      <div class="box-element6">Update Preferences</div>
+
+      <div class="box-element5"><a href=''>Remove</a></div>
+      
+      <div class="box-element6"><a href=''>Update permissions</a></div>
       
 
     </div>

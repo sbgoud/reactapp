@@ -5,18 +5,18 @@ function App() {
   return (
     <body>
       <div class="total-box">
-      <div> Role</div>
+      <div class="role"> <strong>Role</strong></div>
     <div>
       <div class="box-element1"><strong>Viewer</strong>
       <div>
         Cannot do anything except view data
       </div>
       </div>
-      <div class="box-element2"><strong>Controller</strong>
+      <div class="box-element2"><strong>Editor</strong>
       <div>
         Can make changes to invoices, no payments
       </div></div>
-      <div class="box-element3"><strong>Editor</strong>
+      <div class="box-element3"><strong>Controller</strong>
       <div>
         All editor permissions, can make payments
       </div></div>

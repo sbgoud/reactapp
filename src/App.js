@@ -16,27 +16,26 @@ function App() {
               <div>Cannot do anything except view data</div>
             </label>
           </div>
-          
 
           <div class="box-element2">
-          <input type="radio" id="radiobutton" name="rbutton"></input>
-            <label for="radiobutton">
-            <strong>Editor</strong>
-            <div>Can make changes to invoices, no payments</div>
+            <input type="radio" id="radiobutton2" name="rbutton"></input>
+            <label for="radiobutton2">
+              <strong>Editor</strong>
+              <div>Make changes to invoices, no payments</div>
             </label>
           </div>
           <div class="box-element3">
-          <input type="radio" id="radiobutton" name="rbutton"></input>
-            <label for="radiobutton">
-            <strong>Controller</strong>
-            <div>All editor permissions, can make payments</div>
+            <input type="radio" id="radiobutton3" name="rbutton"></input>
+            <label for="radiobutton3">
+              <strong>Controller</strong>
+              <div>All editor permissions, can make payments</div>
             </label>
           </div>
           <div class="box-element4">
-          <input type="radio" id="radiobutton" name="rbutton"></input>
-            <label for="radiobutton">
-            <strong>Admin</strong>
-            <div>Full access, can add team members</div>
+            <input type="radio" id="radiobutton4" name="rbutton"></input>
+            <label for="radiobutton4">
+              <strong>Admin</strong>
+              <div>Full access, can add team members</div>
             </label>
           </div>
 

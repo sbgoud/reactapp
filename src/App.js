@@ -7,10 +7,23 @@ function App() {
       <div class="total-box">
       <div> Role</div>
     <div>
-      <div class="box-element1">Viewer</div>
-      <div class="box-element2">Controller</div>
-      <div class="box-element3">Editor</div>
-      <div class="box-element4">Admin</div>
+      <div class="box-element1"><strong>Viewer</strong>
+      <div>
+        Cannot do anything except view data
+      </div>
+      </div>
+      <div class="box-element2"><strong>Controller</strong>
+      <div>
+        Can make changes to invoices, no payments
+      </div></div>
+      <div class="box-element3"><strong>Editor</strong>
+      <div>
+        All editor permissions, can make payments
+      </div></div>
+      <div class="box-element4"><strong>Admin</strong>
+      <div>
+        Full access, can add team members
+      </div></div>
 
       <div class="box-element5"><a href=''>Remove</a></div>
       

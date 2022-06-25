@@ -1,3 +1,54 @@
+body{
+  width: 50%;
+  background-color: grey;
+  margin: 50px;
+}
+.total-box{
+  padding: 20px;
+background-color: white;
+margin: 25px;
+
+}
+.box-element1 {
+  
+  width: 100%;
+  border-style: solid;
+border-width: 1px;
+border-radius: 2px;
+
+}
+
+.box-element2 {
+  width: 100%;
+  border-style: solid;
+border-width: 1px;
+border-radius: 2px;
+
+}
+.box-element3 {
+  width: 100%;
+  border-style: solid;
+border-width: 1px;
+border-radius: 2px;
+
+}
+.box-element4 {
+  width: 100%;
+  border-style: solid;
+border-width: 1px;
+border-radius: 2px;
+
+}
+
+
+
+
+
+
+
+
+
+
 .App {
   text-align: center;
 }
